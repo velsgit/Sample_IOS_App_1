@@ -2,9 +2,6 @@
 //  ViewController.swift
 //  Sample_IOS_App_1
 //
-//  Created by  VVDN on 20/11/19.
-//  Copyright © 2019  VVDN. All rights reserved.
-//
 
 import UIKit
 
