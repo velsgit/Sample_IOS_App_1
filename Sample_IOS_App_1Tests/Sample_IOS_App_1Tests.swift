@@ -2,9 +2,6 @@
 //  Sample_IOS_App_1Tests.swift
 //  Sample_IOS_App_1Tests
 //
-//  Created by  VVDN on 20/11/19.
-//  Copyright © 2019  VVDN. All rights reserved.
-//
 
 import XCTest
 @testable import Sample_IOS_App_1
